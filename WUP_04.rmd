@@ -77,3 +77,5 @@ After plotting the 98% confidence level I noticed that the only confident interv
 # Discussion and Conclusion
 
 <!--Discussion and conclusion here.  If you found a relationship be sure to consider whether the relationship occurs because one of the variavbles causes the other, or whether they perhasps are related for some other reason.  Watch the chapter 6 videos from the GeorgeTown videos collection.!-->
+
+For this assignment, I learned how to analyze numerical categorical data using 2 more categories. In fact, I was able to analyze 5 more categories. This data was comparing DEGREE to WORDSUM. I was able to plot graphical, numerical, and inferential results. The numerical results showed me that there is a significant difference between LT High School-Graduate and High School-Graduate.
